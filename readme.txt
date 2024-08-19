@@ -12,3 +12,7 @@ git credential-osxkeychain
 git config --global credential.helper osxkeychain
 
 enter UN and PW 1x
+
+2024-08-19
+
+Used this readme as a demo for UMB iTCGA Summer Workshop
